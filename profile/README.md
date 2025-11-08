@@ -33,8 +33,7 @@ To be the most trusted and user-friendly productivity and wellness companion tha
 ## Contact & Support
 
 - Website: [moodmetrics.club](https://moodmetrics.club)  
-- Email: support@moodmetrics.club  
-- Twitter: @MoodMetricsClub
+- Email: moodmetrics.club@gmail.com  
 
 For issues or feature requests, please use GitHub Issues in the relevant repository.
 
